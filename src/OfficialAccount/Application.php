@@ -1,6 +1,6 @@
 <?php
 
-namespace WeChat\OfficialAccount;
+namespace HXAIWeChat\OfficialAccount;
 
 class Application
 {

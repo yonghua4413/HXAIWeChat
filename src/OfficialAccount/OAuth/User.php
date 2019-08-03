@@ -1,6 +1,6 @@
 <?php
 
-namespace WeChat\OfficialAccount\OAuth;
+namespace HXAIWeChat\OfficialAccount\OAuth;
 
 class User
 {

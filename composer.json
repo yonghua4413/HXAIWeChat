@@ -1,5 +1,5 @@
 {
-    "name": "HuaXinAI/WeChat",
+    "name": "yonghua4413/HXAIWeChat",
     "authors": [
         {
             "name": "yonghua4413",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "WeChat\\": "src/"
+            "HXAIWeChat\\": "src/"
         }
     }
 }

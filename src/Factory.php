@@ -1,12 +1,12 @@
 <?php
 
-namespace WeChat\WeChat;
+namespace HXAIWeChat;
 
 class Factory {
 
     public static function make($name, $arguments)
     {
-        $namespace = "\\WeChat\\{$name}\\Application";
+        $namespace = "\\HXAIWeChat\\{$name}\\Application";
         return new $namespace($arguments);
     }
 
