@@ -1,0 +1,15 @@
+{
+    "name": "HuaXinAI/WeChat",
+    "authors": [
+        {
+            "name": "yonghua4413",
+            "email": "254274509@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WeChat\\": "src/"
+        }
+    }
+}
