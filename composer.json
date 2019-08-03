@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "HXAIWeChat\\": "src/"
+            "hxai-wechat\\": "src/"
         }
     }
 }
